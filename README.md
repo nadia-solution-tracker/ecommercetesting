@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nadia-solution-tracker/ecommercetesting.svg?branch=master)](https://travis-ci.org/nadia-solution-tracker/ecommercetesting)
+
          ___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
@@ -12,3 +14,4 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
+
